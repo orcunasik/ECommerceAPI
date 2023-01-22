@@ -1,5 +1,4 @@
 ﻿using ECommerceAPI.Application.Repositories;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerceAPI.API.Controllers
